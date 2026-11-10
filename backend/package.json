@@ -1,0 +1,19 @@
+{
+  "name": "task-flow",
+  "version": "1.0.0",
+  "description": "Application to manage project and tasks",
+  "main": "test.js",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "scripts": {
+    "start": "node test.js",
+    "dev": "nodemon test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
